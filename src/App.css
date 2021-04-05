@@ -1,0 +1,11 @@
+body {
+	color: red;
+}
+
+.folder-container {
+	background-color: pink;
+}
+
+#toggle-button {
+	font: 30px "Courier New";
+}
