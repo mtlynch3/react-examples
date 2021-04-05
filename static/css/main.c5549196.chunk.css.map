@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACC,SACD,CAEA,kBACC,qBACD,CAEA,eACC,uBACD","file":"main.c5549196.chunk.css","sourcesContent":["body {\n\tcolor: red;\n}\n\n.folder-container {\n\tbackground-color: pink;\n}\n\n#toggle-button {\n\tfont: 30px \"Courier New\";\n}"]}
