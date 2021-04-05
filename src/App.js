@@ -1,11 +1,11 @@
 import './App.css';
-import TextAreaComponent from './components/TextAreaComponent';
+import SearchAPI from './components/SearchComponent';
 
 function App() {
   return (
 
     <div className="App">
-      <TextAreaComponent />
+      <SearchAPI />
     </div>
 
   );
