@@ -1,17 +1,11 @@
 import { Component } from 'react'
 
 class FolderComponent extends Component {
-  //setting initial state using constructor
-    // constructor(props) {
-    //   super(props);
-    //   this.state = {
-    //     showlist: true 
-    //   }
-    // }
-
-    //setting initial state with class fields
-    state = {
-      showlist: true 
+    constructor(props) {
+      super(props);
+      this.state = {
+        showlist: true 
+      }
     }
   
     handleToggleClick = () => {

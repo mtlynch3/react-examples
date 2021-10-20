@@ -19,7 +19,7 @@ class FormComponent extends Component {
       );
       
       */
-      //right: passing funciton into setState()
+      //right: passing function into setState()
       this.setState(state => {
         return {firstname: state.fnameValue, lastname: state.lnameValue}
       });

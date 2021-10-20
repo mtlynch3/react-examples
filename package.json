@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "homepage": "http://mtlynch3.github.io/react-examples",
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -1,11 +1,12 @@
 import './App.css';
-import SearchAPI from './components/SearchComponent';
+//import ApiData from './components/ApiDataComponent';
+import FolderComponent from './components/FolderComponent';
 
 function App() {
   return (
 
     <div className="App">
-      <SearchAPI />
+      <FolderComponent data="hello"/>
     </div>
 
   );
