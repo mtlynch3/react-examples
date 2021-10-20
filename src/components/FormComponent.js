@@ -9,6 +9,7 @@ class FormComponent extends Component {
             fnameValue: '',
             lnameValue: ''
         }
+    }
   
     save = () => {
       //wrong: passing in object to setState when accessing current state
