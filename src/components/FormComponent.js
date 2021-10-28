@@ -1,11 +1,14 @@
 import { Component } from 'react'
 class FormComponent extends Component {
-    state = {
-      showform: false,
-      firstname: '',
-      lastname: '',
-      fnameValue: '',
-      lnameValue: ''
+    constructor(props){
+        super(props);
+        this.state = {
+            showform: false,
+            firstname: '',
+            lastname: '',
+            fnameValue: '',
+            lnameValue: ''
+        }
     }
   
     save = () => {
